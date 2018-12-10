@@ -1,5 +1,5 @@
 import random
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 def gTriIns(liste):
     """Effectue le tri d'une liste par insertion"""
